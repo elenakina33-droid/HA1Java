@@ -1,0 +1,5 @@
+[SYSTEM] 2025-10-31T00:20:09.8802251+01:00 Vehicle added: StorageVehicle{id='1', name='test', items=0, battery=100%}
+[SYSTEM] 2025-10-31T02:34:09.4438032+01:00 Vehicle added: StorageVehicle{id='1', name='test1', items=0, battery=100%}
+[SYSTEM] 2025-10-31T02:36:42.4172496+01:00 Inventory updated for test1 SKU=aa
+[SYSTEM] 2025-10-31T02:36:52.0744408+01:00 DataExchange: exchange files created for vehicle=1
+[SYSTEM] 2025-10-31T02:36:52.0764772+01:00 DataExchange: roundtrip payload: EVENT=STOCK_TRANSFER;VEHICLE=1;SKU=aa;NAME=test;QTY=2;TS=2025-10-31T01:36:52.045763700Z

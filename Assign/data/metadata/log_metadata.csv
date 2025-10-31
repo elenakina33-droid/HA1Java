@@ -1,0 +1,4 @@
+path,createdUtc,kind,notes
+data\logs\system\2025-10-31.log,2025-10-30T23:20:09.890986800Z,LOG,created
+data\logs\vehicles\test\2025-10-31.log,2025-10-30T23:20:09.912257100Z,LOG,created
+data\logs\vehicles\test1\2025-10-31.log,2025-10-31T01:34:09.478588200Z,LOG,created
